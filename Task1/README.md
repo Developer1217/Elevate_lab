@@ -17,11 +17,14 @@ Nmap – for versatile network discovery and security auditing
 Nessus – for advanced vulnerability scanning with configurable port scans
 Command-Line Interface – for running scan commands
 Markdown – for documentation and analysis delivery
+
 🚩 Key Takeaways
 Gained practical experience with both basic and advanced scanning techniques using Nmap
 Leveraged Nessus to perform comprehensive port scanning and vulnerability assessment
 Generated and interpreted multiple output file types from the scans
 Compiled findings into a clear, organized analysis report
 Created a well-structured, shareable GitHub repository for reference and learning
+
+
 🔮 Road Ahead
 This is the foundational Day 1 of my network security exploration. Future work will delve into more advanced scanning methods, service enumeration, and vulnerability analysis to enhance practical cybersecurity skills and knowledge.
