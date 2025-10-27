@@ -20,20 +20,35 @@ curl http://example.com
 🌐 Protocols Identified (Full Forms + Functions)
 Protocol	Full Form	Port	Function
 DNS	Domain Name System	53	Translates domain names (like google.com) to IP addresses
+
 HTTP	HyperText Transfer Protocol	80	Requests and transfers unencrypted web content
+
 HTTPS	HyperText Transfer Protocol Secure	443	Transfers encrypted web content
+
 ICMP	Internet Control Message Protocol	-	Used for diagnostics like ping (no port)
+
 TCP	Transmission Control Protocol	-	Reliable connection-oriented communication
+
 UDP	User Datagram Protocol	-	Fast, connectionless communication
+
 TLS	Transport Layer Security	443	Encryption protocol used in HTTPS
+
 OCSP	Online Certificate Status Protocol	-	Verifies SSL certificate revocation status
+
 ARP	Address Resolution Protocol	-	Resolves IP addresses to MAC addresses in local networks
+
 DHCP	Dynamic Host Configuration Protocol	67/68	Assigns IP addresses to devices automatically
+
 BSSID	Basic Service Set Identifier	-	MAC address of the access point in Wi-Fi
+
 SSL	Secure Sockets Layer (Legacy)	443	Obsolete version of TLS used for encryption
+
 FTP	File Transfer Protocol	21	Transfers files between client and server
+
 SMTP	Simple Mail Transfer Protocol	25	Sends emails
+
 POP3	Post Office Protocol v3	110	Retrieves emails from the server
+
 IMAP	Internet Message Access Protocol	143	Access emails on the server in real-time
 
 📂 File(s) Included
