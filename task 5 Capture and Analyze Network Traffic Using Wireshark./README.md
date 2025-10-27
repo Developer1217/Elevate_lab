@@ -1,7 +1,11 @@
 🔍 Wireshark Packet Capture and Analysis - Kali Linux
+
 📌 Project Summary
+
 Tool: Wireshark
+
 System: Windows
+
 Interface Used: wlan0 (Wi-Fi)
 
 Objective:
@@ -87,5 +91,5 @@ Protocol recognition and packet dissection
 Creating a professional report
 
 ✅ Conclusion
-This hands-on session provided practical experience in capturing and analyzing network packets using Wireshark in Kali Linux. Key protocols like DNS, HTTP, ICMP, and
+This hands-on session provided practical experience in capturing and analyzing network packets using Wireshark in Windows. Key protocols like DNS, HTTP, ICMP, and
  TLS were identified, and tools like filters and packet dissection helped deepen protocol-level understanding. This is a foundational skill for networking, cybersecurity, and digital forensics roles.
