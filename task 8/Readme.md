@@ -4,7 +4,7 @@ Working with VPNs
 🎯 Objective
 To understand the working of a Virtual Private Network (VPN) and how it enhances online privacy and secure communication using Kali Linux and ProtonVPN.
 
-img alt img alt
+
 🧰 Tools Used
 Operating System: Kali Linux
 VPN Client: ProtonVPN (Free Tier - CLI)
