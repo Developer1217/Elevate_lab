@@ -1,0 +1,52 @@
+
+Task-7
+Identify and Remove Suspicious Browser Extensions
+
+📌 Objective
+Learn to spot and remove potentially harmful browser extensions to ensure safer and faster web browsing.
+
+🧰 Tools Used
+✅ Google Chrome
+✅ Mozilla Firefox
+🛠️ Steps Performed
+Accessed the browser’s extensions/add-ons manager
+
+Chrome: chrome://extensions
+Firefox: about:addons
+Reviewed each installed extension
+
+Identified unfamiliar or unused ones.
+Checked if they were installed without consent.
+Checked permissions and reviews
+
+Looked for red flags like:
+“Access all data on websites”
+“Modify browser settings”
+Searched for reviews and developer reputation.
+Identified suspicious extensions
+
+Flagged those with:
+High-risk permissions
+Poor reviews or unknown sources
+Removed unnecessary/suspicious extensions
+
+Restarted browser to apply changes
+
+Observed performance improvements
+
+Researched risks of malicious extensions
+
+📋 Extension Audit Log
+Extension Name	Suspicious (Y/N)	Reason for Suspicion	Action Taken
+XYZ Screenshot Tool	✅ Yes	Unknown source, high permissions	❌ Removed
+AdBlock Plus	❌ No	Trusted, actively maintained	✅ Kept
+Grammarly for Chrome	❌ No	Verified publisher, positive reviews	✅ Kept
+📚 Key Learnings
+Browser extensions can steal data, inject ads, or slow down performance.
+Always install extensions from official stores and check user reviews.
+Review permissions and disable or remove unused extensions.
+Reboot your browser after making changes to validate effects.
+🚀 Outcome
+Gained awareness about browser extension threats
+Improved browser performance and safety
+Practiced cybersecurity hygiene by managing personal extension list
